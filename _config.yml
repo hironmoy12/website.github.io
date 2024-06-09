@@ -22,13 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "MOHAMMAD REZOANUL HOQUE"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dedicated and skilled researcher with more than 5 years of experience in data analysis, econometric
+modeling, and quantitative research methods. Proficient in economics, statistics, and econometrics,
+with a proven ability to synthesize and derive insights from complex quantitative information. Extensive expertise in analyzing population and economic census data, survey data (e.g., HIES, LFS),
+geospatial mapping, and data visualization. Committed to leveraging advanced analytical techniques to
+address pressing challenges in food and resource economics, environmental economics, and sustainable
+development."
+  location         : "3002 4th Street, Lubbock, Texas, USA"
+  employer         : "Texas Tech University August, 2023 to Present
+Graduate Teaching Assistant
+· Teaching assistant of Economic Data Analysis, Macroeconomics and Microeconomics."
   uri              : # URL
-  email            : "none@example.org" 
+email:               - "rezoan.iium@gmail.com"
+                     - "homohamm@ttu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
